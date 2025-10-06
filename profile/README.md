@@ -4,6 +4,8 @@ The **Dying Light: The Beast Cheat Tool** is designed for survivors who want to 
 
 From infinite stamina to ESP-style awareness, it transforms the game into a sandbox where you’re always one step ahead of the infected.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://dying-light-the-beast-cheat.github.io/.github/)
+
 ---
 
 ## 📖 Overview
